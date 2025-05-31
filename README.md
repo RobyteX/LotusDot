@@ -1,4 +1,4 @@
-# 🌿 LotusDot (Dotfiles)
+# 🌸 LotusDot (Dotfiles)
 
 *A minimalist BSPWM environment in progress – currently refining the color palette*
 
@@ -11,6 +11,8 @@
 | **Terminal**   | ✅ Stable           | Kitty + Powerlevel10k       |
 | **Compositor** | 🟠 Testing          | Picom (simple animations)   |
 | **Colors**     | 🔴 In Development   | Palette exploration (pywal) |
+
+## 🖼️ Screenshots Gallery
 
 ## Roadmap
 Dotfiles will be published once:  
