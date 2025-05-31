@@ -14,6 +14,12 @@
 
 ## 🖼️ Screenshots Gallery
 
+**Kitty Terminal**  
+![Kitty Terminal](./Screenshots/kitty.png)  
+
+**Rofi Launcher**  
+![Rofi Launcher](./Screenshots/rofi.png)
+
 ## Roadmap
 Dotfiles will be published once:  
 - Final color palette is chosen  
