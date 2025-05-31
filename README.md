@@ -14,10 +14,10 @@
 
 ## 🖼️ Screenshots Gallery
 
-**Kitty Terminal**  
+**Kitty Terminal (No color change yet)**
 ![Kitty Terminal](./Screenshots/kitty.png)  
 
-**Rofi Launcher**  
+**Rofi Launcher (Test)**
 ![Rofi Launcher](./Screenshots/rofi.png)
 
 ## Roadmap
